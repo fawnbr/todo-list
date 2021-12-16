@@ -1,29 +1,19 @@
-# todo
+## To-do List
+## Aplicação desenvolvida com propósito de estudos aos recursos do Vue.js
 
-## Project setup
-```
-npm install
-```
+### 🛠 Tecnologias utilizadas
+- [Vue.js](https://vuejsbr-docs-next.netlify.app)
+- [JavaScript](https://www.javascript.com)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Features
+- Adicionar e remover tarefas;
+- Marcar tarefas como feitas e não feitas;
+- Tarefas salvas no localStorage do seu browser;
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Run your tests
-```
-npm run test
-```
+### Usage
+Para instalação dos pacotes digite ```yarn``` ou ```npm install```
 
-### Lints and fixes files
-```
-npm run lint
-```
+Para executar o projeto em modo de desenvolvimento digite ```yarn serve``` ou ```npm run serve```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Pronto, a aplicação deve estar rodando em ```http://localhost:8080```
